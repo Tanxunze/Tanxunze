@@ -4,7 +4,7 @@
 I'm an undergraduate student at UL, majoring in CSIS.
 
 ## Languages & Technologies I Use
-- Languages: Python, JS/TS, Java
+- Languages: Python, JS/TS, Java, PHP
 - Frontend: React&Vite, Vue
 - Backend: Flask, Express
 - DevOps: Linux&WSL, Nginx&Caddy, Docker
